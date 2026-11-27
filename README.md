@@ -1,6 +1,6 @@
 <!-- Bannière -->
 <p align="center">
-  <img src="https://media1.tenor.com/m/oBwWtRrZVrUAAAAC/asuka-asuka-langley-soryu.gif" alt="Bannière de profil" width="100%">
+  <img src="https://i.pinimg.com/originals/4e/71/8c/4e718c34f2b9a2c3c1f0058f5def47f9.gif" alt="Bannière de profil" width="100%">
 </p>
 
 <!-- Stats collées serrées (noir & blanc) -->
