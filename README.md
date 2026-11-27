@@ -18,10 +18,6 @@
 <p align="center">
   <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mqohyk33w46x3tvncofofrt6em&theme=spotify&count=1&unique=1&duration=1">
 </p>
-
-<!-- Technology Stack (couleurs d'origine, inchangées) -->
-<h2 align="center">Technology Stack 🛠️</h2>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
