@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media1.tenor.com/m/oBwWtRrZVrUAAAAC/asuka-asuka-langley-soryu.gif" alt="Bannière de profil" width="100%">
+  <img src="https://i.pinimg.com/originals/d9/58/bb/d958bb05418639f7ebe67755900f5ad0.gif" alt="Bannière de profil" width="100%">
 </p>
 
 <br>
