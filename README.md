@@ -2,27 +2,6 @@
   <img src="https://i.pinimg.com/originals/d9/58/bb/d958bb05418639f7ebe67755900f5ad0.gif" alt="Bannière de profil" width="150%">
 </p>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swordinherneck&show_icons=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&border_color=30363D" width="49.5%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swordinherneck&layout=compact&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&border_color=30363D&langs_count=8" width="49.5%">
-</div>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swordinherneck&hide_border=false&background=0D1117&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" width="60%">
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mqohyk33w46x3tvncofofrt6em&theme=spotify&count=1&unique=1&duration=1">
-</p>
-
-<br>
-
 <h2 align="center">💻 Tech Stack</h2>
 
 <p align="center">
