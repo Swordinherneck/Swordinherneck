@@ -3,15 +3,15 @@
   <img src="https://media1.tenor.com/m/oBwWtRrZVrUAAAAC/asuka-asuka-langley-soryu.gif" alt="Bannière de profil" width="100%">
 </p>
 
-<!-- Stats collées serrées (noir / rouge-orange / vert) -->
+<!-- Stats collées serrées (noir & blanc) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Swordinherneck&show_icons=true&hide_border=false&title_color=FF4500&icon_color=FF6347&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937" width="49.5%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swordinherneck&layout=compact&hide_border=false&title_color=FF4500&text_color=C9D1D9&bg_color=0D1117&border_color=1F2937&langs_count=8" width="49.5%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Swordinherneck&show_icons=true&hide_border=false&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&border_color=30363D" width="49.5%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swordinherneck&layout=compact&hide_border=false&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&border_color=30363D&langs_count=8" width="49.5%">
 </div>
 
-<!-- Streak collé serré -->
+<!-- Streak collé serré (noir & blanc) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swordinherneck&hide_border=false&background=0D1117&border=1F2937&stroke=C9D1D9&ring=2E8B57&fire=FF4500&currStreakLabel=FF6347&sideLabels=C9D1D9&dates=6E7681" width="60%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swordinherneck&hide_border=false&background=0D1117&border=30363D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=C9D1D9" width="60%">
 </p>
 
 <!-- Spotify centré -->
