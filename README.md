@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swordinherneck&layout=compact&theme=radical" width="400">
 </p>
 
+![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=31mqohyk33w46x3tvncofofrt6em&theme=spotify&count=1&unique=1&duration=1)
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swordinherneck&theme=radical">
 </p>
