@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=avordinherneck@devs+-+%25+./profile.sh;Name:+Nunu;Role:+Software+Developer;Location:+The+Public+Internet;System+Ready_">
+  <img src="https://media1.tenor.com/m/oBwWtRrZVrUAAAAC/asuka-asuka-langley-soryu.gif" alt="Bannière de profil" width="100%">
 </p>
 
 <br>
